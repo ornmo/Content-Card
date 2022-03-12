@@ -1,7 +1,9 @@
-This project is made of background images that expand when clicked on. 
+This project creates a Content card with a main image, some text, a smaller/ profile image and a persons details. it has an amimated loading effect that displays while the card is loading 
 
 It uses Flexbox, CSS transitions and JavaScript
 
 This could be converted to be used in (for example) the following ways
 
-- 
+- author profile
+- book/ movie/ song sleeves/ detail cards
+ 
